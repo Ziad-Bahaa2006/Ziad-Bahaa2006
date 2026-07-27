@@ -1,107 +1,52 @@
 <h1 align="center">Hi 👋, I'm Ziad Bahaa</h1>
+<h3 align="center">Data Science & AI Student | Machine Learning Enthusiast</h3>
 
-<h3 align="center">
-Data Science & AI Student | Machine Learning Enthusiast
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Data Science & AI Student at Alexandria National University
-
-🌱 Currently learning
-
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Data Analysis
-
-💡 Interested in
-
-- Artificial Intelligence
-- Computer Vision
-- Data Science
-- Python Development
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ziad-Bahaa2006&label=Profile%20views&color=0e75b6&style=flat" alt="Ziad-Bahaa2006" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 👨‍💻 About Me
 
-### 🎮 Connect4 AI
-
-Minimax AI with Alpha-Beta Pruning using Python & Tkinter.
-
----
-
-### 🧩 Sudoku Solver
-
-Constraint Satisfaction Problem (CSP)
-
-AC-3 Algorithm
-
-Backtracking Search
+- 🎓 Data Science & AI student at Alexandria National University
+- 🌱 Currently deepening my skills in **Machine Learning, Deep Learning, Data Structures & Algorithms, and Data Analysis**
+- 💡 Interested in **Artificial Intelligence, Computer Vision, and Python Development**
+- 🤝 Open to collaborating on AI/ML and data-driven projects
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ziad-bahaa-902549260) · ziadbaha797[at]gmail[dot]com
 
 ---
 
-### 📈 Numerical Analysis Project
+### 🛠️ Languages & Tools
 
-Python implementation of:
-
-- Root Finding
-- Linear Systems
-- Least Squares
-- Iterative Methods
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,anaconda,opencv" />
+</p>
 
 ---
 
-### 🛒 Game Store Website
+### 🚀 Featured Projects
 
-Responsive Website using HTML & CSS.
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ziad-Bahaa2006&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bahaa2006&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bahaa2006&layout=compact&theme=tokyonight)
+| Project | Description | Tech |
+|---|---|---|
+| 🎮 [Connect4 AI](https://github.com/Ziad-Bahaa2006/connect4-tkinter-minimax-ai) | Interactive Connect 4 game with a Minimax AI + Alpha-Beta Pruning and a Tkinter GUI | Python |
+| 🧩 [Sudoku Solver](https://github.com/Ziad-Bahaa2006/Assignment-3---CSP-to-Solve-Sudoku) | Sudoku solver/generator using Constraint Satisfaction (AC-3 + Backtracking) | Python |
+| 📈 [Numerical Analysis Project](https://github.com/Ziad-Bahaa2006/Numerical-Project) | Root finding, linear systems, least squares & iterative methods | Python |
+| 🛒 [Game Store Website](https://github.com/Ziad-Bahaa2006/web-project) | Responsive games store website | HTML, CSS |
+| 📊 [Data Structures Assignments](https://github.com/Ziad-Bahaa2006/DataStructures_Assignment1) | Arrays & ArrayList implementations and exercises | Java |
 
 ---
 
-## 📫 Connect with Me
+### 📊 GitHub Stats
 
-LinkedIn:
-www.linkedin.com/in/‪ziad-bahaa‬‏-902549260
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ziad-Bahaa2006&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bahaa2006&theme=tokyonight" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bahaa2006&layout=compact&theme=tokyonight" />
+</p>
 
-Email:
-ziadbaha797@gmail.com
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">⭐ Thanks for visiting my profile!</p>
