@@ -13,7 +13,7 @@
 - 🌱 Currently deepening my skills in **Machine Learning, Deep Learning, Data Structures & Algorithms, and Data Analysis**
 - 💡 Interested in **Artificial Intelligence, Computer Vision, and Python Development**
 - 🤝 Open to collaborating on AI/ML and data-driven projects
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ziad-bahaa-902549260) · ziadbaha797[at]gmail[dot]com
+- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/ziad-bahaa-902549260](https://www.linkedin.com/in/%E2%80%AAziad-bahaa%E2%80%AC%E2%80%8F-902549260/)) · ziadbaha797[at]gmail[dot]com
 
 ---
 
