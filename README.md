@@ -180,8 +180,8 @@ Implementation of classical numerical methods.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bahaa2006&layout=compact&theme=tokyonight"/>
-
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bahaa2006&layout=compact&theme=tokyonight"/>
+](https://streak-stats.demolab.com?user=Ziad-Bahaa2006&theme=tokyonight)
 </p>
 
 ---
@@ -190,8 +190,8 @@ Implementation of classical numerical methods.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ziad-Bahaa2006&theme=tokyonight&row=1&column=6"/>
-
+[<img src="https://github-profile-trophy.vercel.app/?username=Ziad-Bahaa2006&theme=tokyonight&row=1&column=6"/>
+](https://github-profile-trophy.vercel.app/?username=Ziad-Bahaa2006&theme=tokyonight&no-frame=true&margin-w=15)
 </p>
 
 ---
@@ -200,8 +200,8 @@ Implementation of classical numerical methods.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Bahaa2006&theme=tokyo-night"/>
-
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Bahaa2006&theme=tokyo-night"/>
+](https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Bahaa2006&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)
 </p>
 
 ---
@@ -209,17 +209,13 @@ Implementation of classical numerical methods.
 # 📫 Connect with Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/ziad-bahaa-902549260">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-•
 
 <a href="mailto:ziadbaha797@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
